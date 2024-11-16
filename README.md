@@ -1,13 +1,13 @@
-# LibriCustos
+# BookMarkd
 
-![LibriCustos App Screenshots](Bookmarkd.png)
-*A collage of LibriCustos app screenshots*
+![BookMarkd App Screenshots](Bookmarkd.png)
+*A collage of BookMarkd app screenshots*
 
 Your Personal Digital Bookshelf
 
 ## Features
 
-LibriCustos offers a range of features to enhance your book management experience:
+BookMarkd offers a range of features to enhance your book management experience:
 
 ```bash
 # User Authentication
