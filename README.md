@@ -1,6 +1,6 @@
 # BookMarkd
 
-![BookMarkd App Screenshots](Bookmarkd.png)
+![BookMarkd App Screenshots](bookmarkd.png)
 *A collage of BookMarkd app screenshots*
 
 Your Personal Digital Bookshelf
